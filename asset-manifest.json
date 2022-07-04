@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mapquito-v1/static/css/main.f09fcbaf.css",
-    "main.js": "/mapquito-v1/static/js/main.c31e19d3.js",
+    "main.css": "/mapquito-v1/static/css/main.66ea4908.css",
+    "main.js": "/mapquito-v1/static/js/main.34e961ea.js",
     "static/js/787.d240ee47.chunk.js": "/mapquito-v1/static/js/787.d240ee47.chunk.js",
     "index.html": "/mapquito-v1/index.html",
-    "main.f09fcbaf.css.map": "/mapquito-v1/static/css/main.f09fcbaf.css.map",
-    "main.c31e19d3.js.map": "/mapquito-v1/static/js/main.c31e19d3.js.map",
+    "main.66ea4908.css.map": "/mapquito-v1/static/css/main.66ea4908.css.map",
+    "main.34e961ea.js.map": "/mapquito-v1/static/js/main.34e961ea.js.map",
     "787.d240ee47.chunk.js.map": "/mapquito-v1/static/js/787.d240ee47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f09fcbaf.css",
-    "static/js/main.c31e19d3.js"
+    "static/css/main.66ea4908.css",
+    "static/js/main.34e961ea.js"
   ]
 }
